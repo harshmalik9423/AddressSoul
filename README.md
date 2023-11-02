@@ -28,3 +28,6 @@ You can edit the various contract addresses to explore on various testnets.
 ## References
 1. Refer below URL for checking available pairs on Uniswap on Goerli.
 > https://www.geckoterminal.com/goerli-testnet/uniswap-goerli-testnet/pools
+
+2. A sample is deployed on Ethereum Goerli Testnet on following address:
+> 0x96C6fb5427c0C49217bC8F6338231351bd1e4b8b
